@@ -10,3 +10,19 @@ body {
     text-align: left;
     border: 1px solid #DDD;
 }
+
+#cabecera {
+    color: aqua;
+    background: #333;
+    margin: 0;
+    height: 80%;
+    width: 80%;
+    padding: 1em;
+    border: 1px solid #DDD;
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: 0px 5px 30px 0px rgba ( 0, 0, 0, 0.76);
+}
+
+
+}
